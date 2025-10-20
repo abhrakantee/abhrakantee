@@ -1,4 +1,4 @@
-## Hi there 👋 Abhrakantee Sarkar
+## Hi there 👋  I'm Abhrakantee Sarkar
 
 ##<!--
 - 🔭 I’m currently working on ...Python language and Web Development
